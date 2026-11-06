@@ -1,6 +1,6 @@
 # Artes e cards do perfil
 
-Os cards e badges são PNGs do próprio GitHub, com endereço absoluto. As artes usam `<picture>`: SVG animado em telas a partir de 768 px e GIF local como fallback. A digitação no desktop usa o readme-typing-svg; o fallback GIF reproduz as mesmas quatro frases sem depender do serviço externo. Cada bloco exibe uma única versão, sem duplicar as artes.
+As imagens exibidas no README são PNGs do próprio GitHub, com endereço absoluto. Isso evita depender de serviços de cards em tempo de visualização e mantém a compatibilidade com o app do GitHub.
 
 ## Estatísticas
 
@@ -24,12 +24,9 @@ A permissão de escrita do workflow é usada somente para atualizar os dois card
 ## Artes
 
 ```sh
-pip install -r scripts/requirements-art.txt
-python3 scripts/render_animations.py
+python3 scripts/render_art.py
 ```
 
-As artes vetoriais são geradas por `render_art.py`, com conversão PNG via CairoSVG. `render_animations.py` acrescenta movimento aos SVGs e gera versões GIF com Pillow: cabeçalho, digitação, RTCloud e divisores. Os GIFs usam paleta compartilhada, primeiro quadro legível e loop infinito; cada arquivo fica abaixo de 1,5 MB. No Linux, a fonte usada é DejaVu Sans.
-
-O fallback `<img>` é GIF para manter a arte disponível em leitores que ignoram `<source>` ou não exibem SVG. A seleção de fontes de `<picture>` foi conferida com o renderizador Markdown do GitHub; a reprodução no app nativo ainda depende do suporte do próprio app. A ilustração da plataforma representa um fluxo de uso, não um painel com métricas reais.
+Os SVGs são montados em memória e convertidos com CairoSVG. O README referencia apenas os PNGs. A ilustração da plataforma representa um fluxo de uso, não um painel com métricas reais.
 
 Os badges locais de `assets/stack/` são versões PNG dos badges do Shields.io com ícones Simple Icons; grammY usa o ícone do Telegram, Baileys o do WhatsApp e SQL o do MySQL.

@@ -26,9 +26,7 @@ def frame(w, h, body):
 
 
 def save(name, w, h, body):
-    svg = frame(w, h, body)
-    (ROOT / 'assets' / Path(name).with_suffix('.svg')).write_text(svg)
-    cairosvg.svg2png(bytestring=svg.encode(), write_to=str(ROOT / 'assets' / name), scale=1.5)
+    cairosvg.svg2png(bytestring=frame(w, h, body).encode(), write_to=str(ROOT / 'assets' / name), scale=1.5)
 
 
 def main():

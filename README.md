@@ -1,15 +1,5 @@
 <p align="center">
-  <picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/hero-developer-animated.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/hero-developer-animated.gif" alt="RTPySystems — desenvolvimento de sites, bots e APIs. Fundador da RTCloud." width="100%"/>
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=900&amp;color=E11D2E&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=90&amp;lines=Oi%2C+eu+sou+o+RTPySystems;Programador+BR+%C2%B7+sites%2C+bots+e+APIs;Construo+projetos+pra+clientes;Fundador+da+RTCloud"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/typing-intro.gif" alt="Oi, eu sou o RTPySystems · Programador BR · sites, bots e APIs · Construo projetos pra clientes · Fundador da RTCloud" width="100%"/>
-</picture>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/hero-developer.png" alt="RTPySystems — desenvolvimento de sites, bots e APIs. Fundador da RTCloud." width="100%"/>
 </p>
 
 <p align="center">
@@ -41,20 +31,10 @@ Na RTCloud, esse trabalho se encontra: desenvolvimento web, automação e hosped
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/workflow.png" alt="Como trabalho: entender o problema, construir a solução e publicar com acompanhamento." width="100%"/>
 </p>
 
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.gif" alt="" width="100%"/>
-</picture>
-</p>
-
 <a id="rtcloud"></a>
 ## RTCloud · minha empresa de hospedagem
 
-<a href="https://rtcloud.com.br"><picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/rtcloud-platform-animated.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/rtcloud-platform-animated.gif" alt="RTCloud — hospedagem de bots, sites e APIs, com deploy pelo GitHub, HTTPS e Pix Automático." width="100%"/>
-</picture></a>
+<a href="https://rtcloud.com.br"><img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/rtcloud-platform.png" alt="RTCloud — hospedagem de bots, sites e APIs, com deploy pelo GitHub, HTTPS e Pix Automático." width="100%"/></a>
 
 A **RTCloud** é a plataforma que construo e mantenho para colocar projetos no ar sem transformar cada deploy em uma configuração de servidor. Hospedagem de **bots, sites e APIs**, com painel e documentação em português.
 
@@ -69,23 +49,13 @@ A **RTCloud** é a plataforma que construo e mantenho para colocar projetos no a
 
 **[Site ↗](https://rtcloud.com.br)** · **[Organização no GitHub ↗](https://github.com/rtcloud-br)** · **[Documentação ↗](https://rtcloud-br.github.io/rtcloud-docs/)** · **[Status ↗](https://status.rtcloud.com.br)**
 
-<details>
-<summary><strong>Novidades da plataforma</strong></summary>
+### Novidades da plataforma
 
 - **v5.2** — Analytics com filtros, Network com estado do DNS e balanceamento pelo painel.
 - **v5.1 / v5.1.1** — Ferramentas MCP com permissões por ação, aba própria e guias de conexão.
 - **v5.0** — App da RTCloud no celular e no computador, com status e documentação integrados.
 
 <sub>Resumo das versões 5.0 em diante. Recursos e preços conferidos no site em 06/11/2026. [Changelog completo →](https://rtcloud.com.br/novidades)</sub>
-
-</details>
-
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.gif" alt="" width="100%"/>
-</picture>
-</p>
 
 <a id="projetos"></a>
 ## Projetos abertos · bases de bots
@@ -122,35 +92,27 @@ Três bases que mantenho para começar com estrutura, comandos e documentação 
 
 <sub>A base de WhatsApp usa uma integração não oficial (Baileys em release candidate). Confira os riscos e os limites de sessão no README antes de usar.</sub>
 
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.gif" alt="" width="100%"/>
-</picture>
-</p>
-
 <a id="stack"></a>
 ## Tecnologias com que trabalho
 
 A stack muda de projeto para projeto. Estas são as ferramentas entre as quais escolho para construir a interface, o backend e a operação.
 
-<table>
-<tr>
-<td width="22%" valign="top"><strong>Linguagens</strong></td>
-<td>
-<img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/javascript.png" alt="JavaScript" height="28"/>
+**Linguagens**
+
+<p>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/javascript.png" alt="JavaScript" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/typescript.png" alt="TypeScript" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/python.png" alt="Python" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/php.png" alt="PHP" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/html5.png" alt="HTML5" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/css3.png" alt="CSS3" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/sql.png" alt="SQL" height="28"/>
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top"><strong>Backend &amp; bots</strong></td>
-<td>
-<img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/nodejs.png" alt="Node.js" height="28"/>
+</p>
+
+**Backend & bots**
+
+<p>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/nodejs.png" alt="Node.js" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/express.png" alt="Express" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/fastify.png" alt="Fastify" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/discordjs.png" alt="discord.js" height="28"/>
@@ -158,42 +120,33 @@ A stack muda de projeto para projeto. Estas são as ferramentas entre as quais e
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/baileys.png" alt="Baileys" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/fastapi.png" alt="FastAPI" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/flask.png" alt="Flask" height="28"/>
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top"><strong>Frontend</strong></td>
-<td>
-<img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/react.png" alt="React" height="28"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/react.png" alt="React" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/nextjs.png" alt="Next.js" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/tailwind-css.png" alt="Tailwind CSS" height="28"/>
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top"><strong>Dados</strong></td>
-<td>
-<img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/mysql.png" alt="MySQL" height="28"/>
+</p>
+
+**Dados**
+
+<p>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/mysql.png" alt="MySQL" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/postgresql.png" alt="PostgreSQL" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/mongodb.png" alt="MongoDB" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/redis.png" alt="Redis" height="28"/>
-</td>
-</tr>
-<tr>
-<td width="22%" valign="top"><strong>Infraestrutura</strong></td>
-<td>
-<img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/docker.png" alt="Docker" height="28"/>
+</p>
+
+**Infraestrutura**
+
+<p>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/docker.png" alt="Docker" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/linux.png" alt="Linux" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/nginx.png" alt="Nginx" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/cloudflare.png" alt="Cloudflare" height="28"/>
   <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/stack/github-actions.png" alt="GitHub Actions" height="28"/>
-</td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.gif" alt="" width="100%"/>
-</picture>
 </p>
 
 ## GitHub · código público
@@ -204,13 +157,6 @@ A stack muda de projeto para projeto. Estas são as ferramentas entre as quais e
 </p>
 
 <sub>Cards gerados neste repositório pela API do GitHub, com atualização diária. Só contam repositórios públicos próprios, sem forks. A distribuição de linguagens mostra o código publicado aqui, não toda a minha experiência. [Como são gerados →](scripts/README.md)</sub>
-
-<p align="center">
-<picture>
-  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.svg"/>
-  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/section-divider.gif" alt="" width="100%"/>
-</picture>
-</p>
 
 <a id="contato"></a>
 ## Tem um projeto em mente?
