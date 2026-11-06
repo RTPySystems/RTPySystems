@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="Serviços RTCloud">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#27272a"/><stop offset="100%" stop-color="#18181b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="220" rx="20" fill="#09090b"/>
+  <!-- 4 cards -->
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="24" y="28" width="240" height="164" rx="16" fill="url(#card)" stroke="#3f3f46"/>
+    <circle cx="64" cy="70" r="18" fill="#e11d2e"/>
+    <text x="58" y="76" font-size="16" fill="#fff">🤖</text>
+    <text x="94" y="76" font-size="18" font-weight="700" fill="#fff">Bots</text>
+    <text x="44" y="118" font-size="13" fill="#a1a1aa">Discord · WhatsApp</text>
+    <text x="44" y="140" font-size="13" fill="#a1a1aa">Telegram · Slack · 24h</text>
+
+    <rect x="288" y="28" width="240" height="164" rx="16" fill="url(#card)" stroke="#3f3f46"/>
+    <circle cx="328" cy="70" r="18" fill="#e11d2e"/>
+    <text x="358" y="76" font-size="18" font-weight="700" fill="#fff">Sites</text>
+    <text x="308" y="118" font-size="13" fill="#a1a1aa">Next.js · React · Vue</text>
+    <text x="308" y="140" font-size="13" fill="#a1a1aa">Express · PHP · HTTPS</text>
+
+    <rect x="552" y="28" width="240" height="164" rx="16" fill="url(#card)" stroke="#3f3f46"/>
+    <circle cx="592" cy="70" r="18" fill="#e11d2e"/>
+    <text x="622" y="76" font-size="18" font-weight="700" fill="#fff">APIs</text>
+    <text x="572" y="118" font-size="13" fill="#a1a1aa">Node.js · Python</text>
+    <text x="572" y="140" font-size="13" fill="#a1a1aa">Fastify · FastAPI · Nest</text>
+
+    <rect x="816" y="28" width="260" height="164" rx="16" fill="url(#card)" stroke="#3f3f46"/>
+    <circle cx="856" cy="70" r="18" fill="#e11d2e"/>
+    <text x="886" y="76" font-size="18" font-weight="700" fill="#fff">Bancos</text>
+    <text x="836" y="118" font-size="13" fill="#a1a1aa">Mongo · Postgres</text>
+    <text x="836" y="140" font-size="13" fill="#a1a1aa">MySQL · Redis</text>
+  </g>
+</svg>

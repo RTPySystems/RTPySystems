@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="RTCloud Docs">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="100%" stop-color="#450a0a"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e11d2e"/><stop offset="100%" stop-color="#ff2d4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="url(#g)"/>
+  <rect x="0" y="268" width="1280" height="12" fill="url(#r)"/>
+  <g opacity="0.25" fill="none" stroke="#fecaca" stroke-width="2">
+    <rect x="980" y="50" width="120" height="160" rx="10"/>
+    <line x1="1000" y1="90" x2="1080" y2="90"/>
+    <line x1="1000" y1="120" x2="1060" y2="120"/>
+    <line x1="1000" y1="150" x2="1070" y2="150"/>
+  </g>
+  <text x="56" y="110" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" fill="#fff">RTCloud Docs</text>
+  <text x="56" y="165" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" fill="#fecaca">Documentação pública · começar, planos, recursos, FAQ</text>
+  <text x="56" y="210" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#a1a1aa">Oficial completa: docs.rtcloud.com.br · Site: rtcloud.com.br</text>
+</svg>
