@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-rtpysystems.svg" alt="RTPySystems" width="100%"/>
+  <img src="./assets/banner-rtpysystems.png" alt="RTPySystems" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 👨‍💻 Quem eu sou
@@ -35,7 +35,7 @@ Minha marca pessoal é **resolver o problema do cliente** com código limpo, dep
 > *“Plataforma RTCloud construída e mantida por RTPySystems.”* — rodapé de [rtcloud.com.br](https://rtcloud.com.br)
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 🤖 Bases de bots
@@ -45,21 +45,21 @@ Três projetos abertos que mantenho para quem quer tirar um bot do papel com có
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/discord-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/discord-bot-base/main/assets/banner.svg" alt="Discord Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/discord-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/discord-bot-base/main/assets/banner.png" alt="Discord Bot Base" width="100%"/></a>
       <h3>Discord</h3>
       <p><strong>Node.js 24 · discord.js v14</strong></p>
       <p>Slash commands, permissões, cooldowns, embeds e eventos organizados.</p>
       <p><a href="https://github.com/RTPySystems/discord-bot-base"><strong>Ver código e usar a base →</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/telegram-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/telegram-bot-base/main/assets/banner.svg" alt="Telegram Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/telegram-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/telegram-bot-base/main/assets/banner.png" alt="Telegram Bot Base" width="100%"/></a>
       <h3>Telegram</h3>
       <p><strong>Node.js 24 · grammY</strong></p>
       <p>Menu inline, comandos, middlewares, acesso administrativo e rate limiting.</p>
       <p><a href="https://github.com/RTPySystems/telegram-bot-base"><strong>Ver código e usar a base →</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/RTPySystems/whatsapp-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/whatsapp-bot-base/main/assets/banner.svg" alt="WhatsApp Bot Base" width="100%"/></a>
+      <a href="https://github.com/RTPySystems/whatsapp-bot-base"><img src="https://raw.githubusercontent.com/RTPySystems/whatsapp-bot-base/main/assets/banner.png" alt="WhatsApp Bot Base" width="100%"/></a>
       <h3>WhatsApp</h3>
       <p><strong>Node.js 24 · Baileys</strong></p>
       <p>QR ou pareamento, sessão persistente, reconexão com backoff e anti-spam.</p>
@@ -74,7 +74,7 @@ As três bases têm **licença MIT**, testes, CI, Docker e guia de **[deploy na 
 
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 🛠️ O que eu entrego
@@ -103,13 +103,13 @@ As três bases têm **licença MIT**, testes, CI, Docker e guia de **[deploy na 
 </details>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## ☁️ Destaque — RTCloud
 
 <p align="center">
-  <a href="https://rtcloud.com.br"><img src="./assets/banner-rtcloud.svg" alt="RTCloud" width="100%"/></a>
+  <a href="https://rtcloud.com.br"><img src="./assets/banner-rtcloud.png" alt="RTCloud" width="100%"/></a>
 </p>
 
 Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — painel em português, Pix Automático, `*.rtsystems.app`, AMD EPYC · NVMe · DDoS.
@@ -125,11 +125,11 @@ Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — 
 | Planos | a partir de **R$ 16,24/mês** (Spark) |
 
 <p align="center">
-  <img src="./assets/illust-services.svg" alt="Serviços" width="100%"/>
+  <img src="./assets/illust-services.png" alt="Serviços" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 📊 GitHub
@@ -143,7 +143,7 @@ Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — 
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="" width="80%"/>
+  <img src="./assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 📬 Contato (fechamento de projeto)
