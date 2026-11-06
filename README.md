@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-rtpysystems.png" alt="RTPySystems" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/banner-rtpysystems.png" alt="RTPySystems" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 👨‍💻 Quem eu sou
@@ -35,7 +35,7 @@ Minha marca pessoal é **resolver o problema do cliente** com código limpo, dep
 > *“Plataforma RTCloud construída e mantida por RTPySystems.”* — rodapé de [rtcloud.com.br](https://rtcloud.com.br)
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 🤖 Bases de bots
@@ -74,7 +74,7 @@ As três bases têm **licença MIT**, testes, CI, Docker e guia de **[deploy na 
 
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 🛠️ O que eu entrego
@@ -103,13 +103,13 @@ As três bases têm **licença MIT**, testes, CI, Docker e guia de **[deploy na 
 </details>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## ☁️ Destaque — RTCloud
 
 <p align="center">
-  <a href="https://rtcloud.com.br"><img src="./assets/banner-rtcloud.png" alt="RTCloud" width="100%"/></a>
+  <a href="https://rtcloud.com.br"><img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/banner-rtcloud.png" alt="RTCloud" width="100%"/></a>
 </p>
 
 Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — painel em português, Pix Automático, `*.rtsystems.app`, AMD EPYC · NVMe · DDoS.
@@ -125,11 +125,11 @@ Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — 
 | Planos | a partir de **R$ 16,24/mês** (Spark) |
 
 <p align="center">
-  <img src="./assets/illust-services.png" alt="Serviços" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/illust-services.png" alt="Serviços" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 📊 GitHub
@@ -143,7 +143,7 @@ Meu maior produto público: **hospedagem brasileira** de bots, sites e APIs — 
 </p>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/RTPySystems/RTPySystems/main/assets/divider.png" alt="" width="80%"/>
 </p>
 
 ## 📬 Contato (fechamento de projeto)
